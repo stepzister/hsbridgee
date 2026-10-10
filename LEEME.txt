@@ -1,0 +1,1 @@
+Sube index.html a la raiz del repositorio, reemplazando el anterior. Las cuatro fotografias estan incluidas dentro del HTML: no necesitas la carpeta assets para esta version. Conserva GitHub Pages en main / (root). El formulario sigue siendo demostrativo. Fuentes, Tailwind y el puente WebGL usan recursos externos.
